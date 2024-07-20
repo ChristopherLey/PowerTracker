@@ -1,0 +1,5 @@
+devices:
+  - name: "metaA"
+    mac: "FA:D8:AC:79:5A:02"
+  - name: "metaB"
+    mac: "FD:11:42:97:7E:49"
