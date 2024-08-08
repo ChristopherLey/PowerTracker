@@ -1,7 +1,7 @@
 import os
 
 
-file = '02-08_16-29-25_accel.csv'
+file = '../data/07-08_17-57-53_accel.csv'
 lines_to_buffer = 10
 n = 0
 with open(file, 'rb') as f:
